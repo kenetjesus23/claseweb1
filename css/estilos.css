@@ -1,0 +1,45 @@
+body{
+
+    background-color: aqua;
+
+}
+
+h1{
+    text-align: center;
+}
+
+nav> a{
+    font-size: 14px;
+    margin-right: 45px;
+    color: black;
+}
+
+.fondoImagen{
+
+    width: 100%;
+    height: 200px;
+
+}
+
+figure{
+    margin: 0;
+}
+
+.flexContainer{
+    display: flex;
+    background-color: blue;
+    justify-content: space-between;
+
+}
+
+.divIzquierdo{
+    width: 60%;
+    background-color: bisque;
+    height: 100px;
+}
+
+.divDerecho{
+    width: 30%;
+    background-color: blueviolet;
+    height: 100px;
+}
